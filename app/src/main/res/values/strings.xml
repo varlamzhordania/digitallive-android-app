@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Digital Live</string>
+    <string name="tab_general">General</string>
+    <string name="tab_advanced">Advanced</string>
+    <string name="websocket_server_url">WebSocket Server URL</string>
+    <string name="websocket_server_url_hint">Enter WS server URL</string>
+    <string name="display_secret_key">Display Secret Key</string>
+    <string name="display_secret_key_hint">Enter display secret key</string>
+    <string name="log_server_url">Log Server URL</string>
+    <string name="log_server_url_hint">Enter log server URL</string>
+    <string name="display_token">Display Token</string>
+    <string name="display_token_hint">Enter display token</string>
+    <string name="retry_interval_minutes">Retry Interval (Minutes)</string>
+    <string name="retry_interval_hint">15</string>
+    <string name="ticker_background_color">Ticker Background Color</string>
+    <string name="ticker_text_color">Ticker Text Color</string>
+    <string name="show_error_as_toast">Show error as toast</string>
+    <string name="btn_continue">Continue</string>
+    <string name="no_video_playing">No video playing.</string>
+    <string name="error_downloading_video">Error downloading video</string>
+    <string name="select">Select</string>
+    <string name="cancel">Cancel</string>
+    <string name="server_url_is_required">Server URL is required</string>
+    <string name="secret_key_is_required">Secret Key is required</string>
+    <string name="retry_interval_is_required">Retry Interval is required</string>
+    <string name="retry_interval_lower_limit">Retry Interval must be greater than 0</string>
+    <string name="connection_error">Connection error: %1$s</string>
+    <string name="downloading_video">Downloading video…</string>
+    <string name="download_error">Download error: %1$s</string>
+    <string name="display_is_inactive">Display is inactive.</string>
+    <string name="press_back_twice_to_exit">Press back twice to exit</string>
+</resources>
